@@ -1,5 +1,9 @@
 .odd{
     background-color: rgb(190, 21, 95);
     font-family: verdana, "DejaVu Sans", sans-serif;
-    
+}
+
+#one{
+    color: rgb(19, 149, 205);
+    font-size: 36px;
 }
